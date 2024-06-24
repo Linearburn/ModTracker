@@ -1,3 +1,11 @@
+## License
+
+This project is licensed under a proprietary license. You may view the source code for personal use only. Redistribution, modification, and commercial use are prohibited without explicit permission from the author. See the [LICENSE](./LICENSE) file for more details.
+
+For inquiries regarding permissions, please contact nathan.allen@live.com.
+
+
+
 # ModTracker
 
 ModTracker is a Windows Forms application that allows users to manage and track mods for Conan Exiles. The application supports adding, removing, and enabling/disabling mods, and it can save and load the mod list from a file.
