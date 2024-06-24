@@ -2,7 +2,7 @@
 
 This project is licensed under a proprietary license. You may view the source code for personal use only. Redistribution, modification, and commercial use are prohibited without explicit permission from the author. See the [LICENSE](./LICENSE) file for more details.
 
-For inquiries regarding permissions, please contact nathan.allen@live.com.
+For inquiries regarding permissions, please contact linearburn1@gmail.com.
 
 
 
