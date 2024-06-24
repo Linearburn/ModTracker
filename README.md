@@ -44,8 +44,8 @@ ModTracker is a Windows Forms application that allows users to manage and track 
 
 ### Building and Copying the Mod List
 
-1. Click the `Build Mod List` button to generate a comma-separated list of enabled mod IDs in the `Mod List` text box.
-2. Click the `Copy to Clipboard` button to copy the mod list to the clipboard.
+
+1. Click the `Copy to Clipboard` button to copy the mod list to the clipboard.
 
 ### Saving and Loading the Mod List
 
@@ -54,7 +54,7 @@ ModTracker is a Windows Forms application that allows users to manage and track 
 
 ### Menu Items
 
-- **File**: Currently does nothing.
+
 - **Save**: Saves the current mod list to `list.txt`.
 - **Load**: Loads the mod list from `list.txt`.
 
